@@ -5,7 +5,7 @@ Barcodes are widely used in various sectors of industries for tracking & ID purp
 
 Type of Barcode used:
 
-### EAN-13 (Commonly used in retail)
+### - EAN-13 (Commonly used in retail)
 
 # Example:
 
